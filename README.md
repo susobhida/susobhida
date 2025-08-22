@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px" style="vertical-align:middle;"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align:middle;"> 
   Hey there! I'm <span style="color:#00F7FF;">Susobhida</span>
 </h1>
 
 <h3 align="center">✨ Prefinal Year B.E. Cyber Security Student | Passionate Front-End Developer ✨</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/susobhida/susobhida/blob/main/Assets/dev.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/susobhida/susobhida/blob/main/Assets/dev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susobhida&label=Profile%20views&color=0e75b6&style=flat" alt="susobhida" /> </p>
 
