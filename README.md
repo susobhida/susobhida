@@ -21,6 +21,7 @@
 
 - ⚡ Fun fact: *I love combining creativity with logic to design &nbsp;beautiful web apps!*  
 
+---
 
 ### 🛠️ Tech Stack  
 <p align="center">
