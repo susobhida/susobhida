@@ -15,7 +15,7 @@
 
 - 📫 Reach me at: **susobhidanagaraj@gmail.com**
 
-- ⚡ Fun fact: *I love combining creativity with logic to design beautiful web apps!*  
+- ⚡ Fun fact: *I love combining creativity with logic to design &nbsp;&nbsp; beautiful web apps!*  
 
 
 ### 🛠️ Tech Stack  
