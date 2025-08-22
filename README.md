@@ -5,7 +5,7 @@
 
 <h3 align="center">✨ Prefinal Year B.E. Cyber Security Student | Passionate Front-End Developer ✨</h3>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/susobhida/susobhida/blob/main/Assets/dev.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/susobhida/susobhida/blob/main/Assets/dev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susobhida&label=Profile%20views&color=0e75b6&style=flat" alt="susobhida" /> </p>
 
