@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Susobhida</h1>
 <h3 align="center">✨ Prefinal Year B.E. Cyber Security Student | Passionate Front-End Developer ✨</h3>
 
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 - 🔭 I’m currently working on **My Portfolio Website**
