@@ -10,6 +10,7 @@
 
 - 🌱 I’m learning **Responsive Web Apps**
 
+- 👯 I’m open to collaborate on **Web App Projects**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
