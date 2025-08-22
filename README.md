@@ -7,7 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/susobhida/Assets/blob/main/dev.gif?raw=true">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susobhida&label=Profile%20views&color=0e75b6&style=flat" alt="susobhida" /> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
