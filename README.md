@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Susobhida</h1>
 <h3 align="center">✨ Prefinal Year B.E. Cyber Security Student | Passionate Front-End Developer ✨</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
----
-
+<p align='left'>
 ### 👩‍💻 About Me  
 - 🔭 I’m currently working on **My Portfolio Website**  
 - 🌱 I’m learning **Responsive Web Apps & UI/UX Design**  
@@ -15,7 +14,7 @@
 - 📫 Reach me at: **susobhidanagaraj@gmail.com**  
 - ⚡ Fun fact: *I love combining creativity with logic to design beautiful web apps!*  
 
----
+</p>
 
 ### 🛠️ Tech Stack  
 <p align="center">
