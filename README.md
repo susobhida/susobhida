@@ -11,7 +11,7 @@
 - 🌱 I’m learning **Responsive Web Apps**
 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React & Cybersecurity Basics**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 Reach me at: **susobhidanagaraj@gmail.com**
 
