@@ -8,9 +8,8 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m learning **Responsive Web Apps & UI/UX Design**
+- 🌱 I’m learning **Responsive Web Apps**
 
-- 👯 I’m open to collaborate on **Frontend Projects & Cybersecurity Tools**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & Cybersecurity Basics**
 
