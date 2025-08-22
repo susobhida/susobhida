@@ -5,16 +5,19 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
 </p>
 
-<p align='left'>
-### 👩‍💻 About Me  
-- 🔭 I’m currently working on **My Portfolio Website**  
-- 🌱 I’m learning **Responsive Web Apps & UI/UX Design**  
-- 👯 I’m open to collaborate on **Frontend Projects & Cybersecurity Tools**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React & Cybersecurity Basics**  
-- 📫 Reach me at: **susobhidanagaraj@gmail.com**  
+
+- 🔭 I’m currently working on **My Portfolio Website**
+
+- 🌱 I’m learning **Responsive Web Apps & UI/UX Design**
+
+- 👯 I’m open to collaborate on **Frontend Projects & Cybersecurity Tools**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React & Cybersecurity Basics**
+
+- 📫 Reach me at: **susobhidanagaraj@gmail.com**
+
 - ⚡ Fun fact: *I love combining creativity with logic to design beautiful web apps!*  
 
-</p>
 
 ### 🛠️ Tech Stack  
 <p align="center">
