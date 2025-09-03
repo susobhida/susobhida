@@ -48,7 +48,6 @@
 
 ### 📌 Featured Projects  
 - 🌐 [Portfolio Website](#) *(Coming Soon)*  
-- 🔒 [Cybersecurity Mini Tools](#) *(In Progress)*  
 
 ---
 
