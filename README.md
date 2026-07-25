@@ -1,251 +1,90 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hi, I'm <b>Susobhida Nagaraj</b>
-</h1>
+<div align="center">
 
-<h3 align="center">
-Cyber Security Engineering Student • Ethical Hacking • Digital Forensics • Front-End Developer
-</h3>
+# Susobhida Nagaraj
+### Cyber Security Engineering Student — Ethical Hacking · Digital Forensics · Front-End Development
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Cyber+Security+Student;Ethical+Hacker;Digital+Forensics+Enthusiast;Front-End+Developer;Open+Source+Learner;Always+Learning+New+Technologies"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2E2E2E?style=flat-square)](https://susobhida.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susobhida)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:susobhidanagaraj@gmail.com)
 
-<p align="center">
+</div>
 
-<a href="https://komarev.com/ghpvc/?username=susobhida">
-<img src="https://komarev.com/ghpvc/?username=susobhida&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
+<br/>
 
-<a href="https://github.com/susobhida?tab=followers">
-<img src="https://img.shields.io/github/followers/susobhida?logo=github&style=for-the-badge"/>
-</a>
+## Summary
 
-<a href="https://github.com/susobhida">
-<img src="https://img.shields.io/github/stars/susobhida?affiliations=OWNER&style=for-the-badge"/>
-</a>
+Final-year Computer Science & Engineering student specializing in Cyber Security. Focused on penetration testing, network security, and digital forensics, with hands-on experience building full-stack security tools and web applications. Actively seeking opportunities in SOC operations, incident response, and applied security engineering.
 
-</p>
+<br/>
 
----
+## Projects
 
-# 👨‍💻 About Me
+**Smart Excavation Transport Monitoring System** — *Tamil Nadu Government Hackathon (Niral Thiruvizha) & Prefinal Year Project*
+GPS-based monitoring system for excavation vehicles with permit validation, geofencing for route-violation detection, and a real-time web dashboard.
+`Raspberry Pi` `GPS` `Flask` `MongoDB` `HTML/CSS/JS`
 
-🎓 Prefinal Year B.E. Computer Science & Engineering (Cyber Security)
+**ML-Based Intrusion Prevention System**
+Real-time network traffic classifier that detects malicious activity and automatically blocks suspicious IP addresses.
+`Python` `Scapy` `Flask` `Random Forest`
 
-🔐 Passionate about
+**Personal Portfolio**
+Responsive site presenting skills, projects, and certifications.
+`React` `HTML` `CSS` `JavaScript` — [susobhida.github.io/Portfolio](https://susobhida.github.io/Portfolio/)
 
-- Ethical Hacking
-- Penetration Testing
-- Network Security
-- Digital Forensics
-- Threat Detection
+<br/>
 
-💻 I also enjoy building modern web applications using React.
+## Technical Skills
 
-🌱 Currently Learning
+**Languages**
 
-- SOC Operations
-- Incident Response
-- Responsive Web Applications
-- Advanced React
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-👯 Looking to collaborate on
+**Front-End**
 
-- Cyber Security Projects
-- Open Source
-- Web Applications
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
+**Databases**
 
-# 🌐 Portfolio
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🔗 Portfolio Website
+**Security Tools**
 
-👉 **https://susobhida.github.io/Portfolio/**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF7800?style=flat-square&logo=owasp&logoColor=white)
 
----
+**Forensics & Tools**
 
-# 🚀 Featured Projects
+![Autopsy](https://img.shields.io/badge/Autopsy-2E3436?style=flat-square)
+![Volatility](https://img.shields.io/badge/Volatility-2E3436?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🚜 Smart Excavation Transport Monitoring System
+<br/>
 
-🏆 Tamil Nadu Government Hackathon Project (Niral Thiruvizha)
+## Certifications
 
-A GPS-enabled monitoring system that tracks excavation vehicles, validates permits, detects route violations using geofencing and provides real-time monitoring through a web dashboard.
+- Wadhwani Foundation
+- Cisco Networking Academy
+- Cyber Security Certifications
+- CompTIA Security+ SY0-701
+- Deloitte Cyber Job Simulation
 
-**Tech Stack**
+<br/>
 
-- Raspberry Pi
-- GPS Module
-- Flask
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
+<div align="center">
 
----
+*"Security is not a product, but a continuous process."*
 
-## 🛡️ Intrusion Prevention System
-
-Machine Learning powered Intrusion Prevention System capable of detecting malicious traffic and automatically blocking suspicious IP addresses.
-
-**Technologies**
-
-- Python
-- Scapy
-- Flask
-- Random Forest
-
----
-
-## 🌐 Personal Portfolio Website
-
-Modern responsive portfolio showcasing
-
-- Skills
-- Projects
-- Certifications
-- Contact Information
-
-🔗 https://susobhida.github.io/Portfolio/
-
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-</p>
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-### Version Control & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
-
-### Cyber Security Tools
-
-<p>
-
-🛡️ Kali Linux
-
-🔍 Nmap
-
-🕷️ Wireshark
-
-💣 Metasploit
-
-🛡️ Burp Suite
-
-🛡️ OWASP ZAP
-
-📁 Autopsy
-
-🧠 Volatility
-
-</p>
-
----
-
-# 📜 Certifications
-
-🏅 Wadhwani Foundation
-
-🏅 Cisco Networking Academy
-
-🏅 Cyber Security Certifications
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=susobhida&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=susobhida&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susobhida&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=susobhida&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=susobhida&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:susobhidanagaraj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/susobhida">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/susobhida">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://susobhida.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"Security is not a product, but a continuous process."**
-
-</p>
-
----
-
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+</div>
