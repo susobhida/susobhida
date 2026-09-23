@@ -1,7 +1,7 @@
 <div align="center">
 
 # Susobhida Nagaraj
-### Cyber Security Engineering Student — Ethical Hacking · Digital Forensics · Front-End Development
+### Cyber Security Engineering Student — Ethical Hacking · Digital Forensics · Full Stack Development
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2E2E2E?style=flat-square)](https://susobhida.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susobhida)
