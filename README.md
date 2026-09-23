@@ -31,6 +31,10 @@ Real-time network traffic classifier that detects malicious activity and automat
 Responsive site presenting skills, projects, and certifications.
 `React` `HTML` `CSS` `JavaScript` — [susobhida.github.io/Portfolio](https://susobhida.github.io/Portfolio/)
 
+**Password Strength Checker & Generator** Zero-dependency CLI that analyzes password strength via entropy estimation and pattern detection, and generates cryptographically secure passwords/passphrases. `Python` `secrets` `CLI` `Entropy Analysis`
+
+**Network Sniffer** Educational packet sniffer built during the CodeAlpha Cyber Security Internship that captures live traffic and parses source/destination IPs, protocol, ports, TTL, and payload previews across TCP/UDP/ICMP/ARP. `Python` `Scapy` `Networking` `BPF Filters`
+
 <br/>
 
 ## Technical Skills
